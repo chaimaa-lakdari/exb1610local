@@ -36,10 +36,10 @@ public class txnscript
 	
 	private static String jdbcUrl ;
 	
-	private static String jdbcMachine = "" ;
-	private static String jdbcDatabase = "" ;
-	private static String jdbcUser = "" ;
-	private static String jdbcPass = "" ;	
+	private static String jdbcMachine = "ec2-46-137-84-140.eu-west-1.compute.amazonaws.com" ;
+	private static String jdbcDatabase = "d1f9bhjqmdasim" ;
+	private static String jdbcUser = "nwdsroafhozrdy" ;
+	private static String jdbcPass = "d24a6880dfb75e24afdbe927638cbeecd476e202c75a16cf85e60b7651184f8a" ;	
 	
 	static Connection cnx = null ;
 	static Statement stmt = null ;
