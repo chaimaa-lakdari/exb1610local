@@ -20,7 +20,7 @@ import java.util.stream.Stream;
 public class txnscript
 {
 	
-	// coller ici les paramètres issu de Heroku
+	// coller ici les paramètres issu de Heroku 
 	private static String jdbcHerokuMachine = "" ;
 	private static String jdbcHerokuDatabase = "" ;
 	private static String jdbcHerokuUser = "" ;
